@@ -11,16 +11,41 @@
 💬 Ask me about C, C++, basic DSA, and getting started with coding.  
 ⚡ Fun fact: I love turning what I learn into small practical projects 🙂
 
+## 🚀 Featured Project:
+
+### 🔍 OSINT Username Finder
+
+A modern OSINT-based web application that scans multiple platforms to check username availability and online presence.
+
+### ✨ Features:
+- ⚡ Fast asynchronous scanning using AsyncIO & AIOHTTP
+- 🌍 Multi-platform username search
+- 🎨 Modern responsive UI
+- 🔄 Real-time scan results
+- 🧠 Backend built with Flask
+- 📦 Modular project structure
+- ☁️ Deployed online using Render
+
+### 🛠️ Tech Stack:
+- Python
+- Flask
+- AsyncIO
+- AIOHTTP
+- HTML/CSS/JavaScript
+- Git & GitHub
+- Render
+
+### 📌 What I Learned:
+- Async programming & event loops
+- HTTP requests and concurrency
+- Flask backend architecture
+- Deployment workflow using GitHub + Render
+- Project structuring and debugging
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-bhushan-b3359b368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanbhushan2007@gmail.com) 
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
