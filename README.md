@@ -7,7 +7,7 @@
 🔭 I’m currently working on Data Structures & Algorithms using C and C++.  
 🤝 I’m looking to collaborate on beginner-friendly coding and Python projects.  
 🙌 I’m looking for help with improving problem-solving and building real-world projects.  
-🌱 I’m currently learning Python and backend development.  
+🌱Building backend-focused projects using Python, Flask, AsyncIO, and modern web technologies. 
 💬 Ask me about C, C++, basic DSA, and getting started with coding.  
 ⚡ Fun fact: I love turning what I learn into small practical projects 🙂
 
